@@ -46,13 +46,13 @@ public class GameManager : MonoBehaviour
     public void Win()
     {
         winUI.gameObject.SetActive(true);
-        Time.timeScale = 0;
+        // Time.timeScale = 0;
     }
 
     public void Lose()
     {
         loseUI.gameObject.SetActive(true);
-        Time.timeScale = 0;
+        // Time.timeScale = 0;
     }
 
     public void Revive()

@@ -18,7 +18,7 @@ public class GateSceneManager : MonoBehaviour
     [SerializeField] private GateType gateType;
 
     public static GateSceneManager Instance;
-    [SerializeField] private Transform upgradePage;
+    [SerializeField] private Transform gameWinUI;
     [SerializeField] private Sprite openGateSprite;
     [SerializeField] private MMFeedbacks fadeTransition;
     [SerializeField] private MMFeedbacks successFeedbacks;
@@ -55,7 +55,7 @@ public class GateSceneManager : MonoBehaviour
                 case GateType.BossGate:
                     if (GameManager.Instance.GetEnemyList().Length <= 0)
                     {
-                        upgradePage.gameObject.SetActive(true);
+                        LoadWinCondition();
                     }
                     break;
                 default:

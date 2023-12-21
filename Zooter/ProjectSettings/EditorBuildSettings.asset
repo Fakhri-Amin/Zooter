@@ -12,99 +12,18 @@ EditorBuildSettings:
     path: Assets/Scenes/LoadingScreen.unity
     guid: 06b0bf4e0bb1d3f4f9decec77260af70
   - enabled: 1
-    path: Assets/Scenes/Level_Jailolo/Jailolo_Level 1.unity
-    guid: b0e18f9f6f8a2aa4683af1f6563375a7
-  - enabled: 1
-    path: Assets/Scenes/Level_Jailolo/Jailolo_Level 2.unity
-    guid: 322d863f01d857743be0f9b267ee8ff9
-  - enabled: 1
-    path: Assets/Scenes/Level_Jailolo/Jailolo_Level 3.unity
-    guid: 25e0b34e5c1698f43ad817d5dc8a05d2
-  - enabled: 1
-    path: Assets/Scenes/Level_Jailolo/Jailolo_Level 4.unity
-    guid: d542c3f9d6b9a904e9bac9d3b961d2fc
-  - enabled: 1
-    path: Assets/Scenes/Level_Jailolo/Jailolo_Level 5.unity
-    guid: ef9201f946617b54d963a5d72ec7ff9b
-  - enabled: 1
-    path: Assets/Scenes/Level_Jailolo/Jailolo_Level 6.unity
-    guid: 58158333c3156cb4a817a0d676845edc
-  - enabled: 1
-    path: Assets/Scenes/Level_Jailolo/Jailolo_Level 7.unity
-    guid: 208dda0bd3e29c1419ab17546c791095
-  - enabled: 1
-    path: Assets/Scenes/Level_Jailolo/Jailolo_Level 8.unity
-    guid: dc61c0ed04aa3b34497b3167d29e9929
-  - enabled: 1
     path: Assets/Scenes/Level_1.unity
     guid: 4f56e4be39406c34b9fd8cf53cd0dc0a
   - enabled: 1
-    path: Assets/Scenes/Level_Bacan/Bacan_Level 2.unity
-    guid: ad51e9a04ba283d419d39abea44125ff
+    path: Assets/Scenes/Level_2.unity
+    guid: b3a149f3c4191a94c93786c09ec2a9ac
   - enabled: 1
-    path: Assets/Scenes/Level_Bacan/Bacan_Level 3.unity
-    guid: ededa9b8aea946f448f77e7617da9963
+    path: Assets/Scenes/Level_3.unity
+    guid: fe19ae8d1b075984e9b26cac20c6a7c4
   - enabled: 1
-    path: Assets/Scenes/Level_Bacan/Bacan_Level 4.unity
-    guid: 575ee94dc77e60b478ee75c23e7c4483
+    path: Assets/Scenes/Level_4.unity
+    guid: 52763dc58a26d7c42b0670ae9aa23566
   - enabled: 1
-    path: Assets/Scenes/Level_Bacan/Bacan_Level 5.unity
-    guid: c70470a6d5017a946a5dfa21baf037a3
-  - enabled: 1
-    path: Assets/Scenes/Level_Bacan/Bacan_Level 6.unity
-    guid: 3719cb966f042074ea90178a5a93f202
-  - enabled: 1
-    path: Assets/Scenes/Level_Bacan/Bacan_Level 7.unity
-    guid: 861ff1e301eec364c82808c9dff4b223
-  - enabled: 1
-    path: Assets/Scenes/Level_Bacan/Bacan_Level 8.unity
-    guid: f9c7c3bf2087d094ba4ea5f42b50f330
-  - enabled: 1
-    path: Assets/Scenes/Level_Tidore/Tidore_Level 1.unity
-    guid: 2a943e4413f99564da64c9436559c278
-  - enabled: 1
-    path: Assets/Scenes/Level_Tidore/Tidore_Level 2.unity
-    guid: 7c505fbe74cad754d88d3e91e9d8ee2c
-  - enabled: 1
-    path: Assets/Scenes/Level_Tidore/Tidore_Level 3.unity
-    guid: 6902610469f31bc46837453faf36b69c
-  - enabled: 1
-    path: Assets/Scenes/Level_Tidore/Tidore_Level 4.unity
-    guid: 5688c175ba861e746bee345d736361cd
-  - enabled: 1
-    path: Assets/Scenes/Level_Tidore/Tidore_Level 5.unity
-    guid: 259a60fab6ed51b4193d614b3dfe86fc
-  - enabled: 1
-    path: Assets/Scenes/Level_Tidore/Tidore_Level 6.unity
-    guid: 534e4ff197f69f245b6c1cb3024c7eae
-  - enabled: 1
-    path: Assets/Scenes/Level_Tidore/Tidore_Level 7.unity
-    guid: 56d28ceda8c78f94ea86f451d55e42ad
-  - enabled: 1
-    path: Assets/Scenes/Level_Tidore/Tidore_Level 8.unity
-    guid: a8f3a61d98ce14944b2baef84bd5b3c7
-  - enabled: 1
-    path: Assets/Scenes/Level_Ternate/Ternate_Level 1.unity
-    guid: daee96bbf4500d549bcdc98b688e2d1e
-  - enabled: 1
-    path: Assets/Scenes/Level_Ternate/Ternate_Level 2.unity
-    guid: 9fd68f0ae456c3c40b0a26883ce040a8
-  - enabled: 1
-    path: Assets/Scenes/Level_Ternate/Ternate_Level 3.unity
-    guid: b5d684d23b3ae3b4ca248167f0607cc8
-  - enabled: 1
-    path: Assets/Scenes/Level_Ternate/Ternate_Level 4.unity
-    guid: 2b1033ed833bffe4e91dc7299e169b3d
-  - enabled: 1
-    path: Assets/Scenes/Level_Ternate/Ternate_Level 5.unity
-    guid: f8b813800b18057448f55d51b5f61461
-  - enabled: 1
-    path: Assets/Scenes/Level_Ternate/Ternate_Level 6.unity
-    guid: 75e602fee2fb92b4cb8fb7f5c8985fbe
-  - enabled: 1
-    path: Assets/Scenes/Level_Ternate/Ternate_Level 7.unity
-    guid: a6e03f5ba7b90ec4690a43785024f562
-  - enabled: 1
-    path: Assets/Scenes/Level_Ternate/Ternate_Level 8.unity
-    guid: eaa6222893ba3dd4a89b287c6ab0f8fc
+    path: Assets/Scenes/Level_5.unity
+    guid: 4e197af81241b3d4fa12c1ff35c814ca
   m_configObjects: {}
